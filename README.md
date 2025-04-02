@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Lover;Always+Learning" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>
 
 ## 📌 About Me
 - 🎯 Passionate about **Web Development** and **Open Source**
