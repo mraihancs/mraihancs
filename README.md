@@ -1,55 +1,29 @@
-import React from "react";
-import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+<h1 align="center">Hi there! 👋 I'm Maruf Raihan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Lover;Always+Learning" />
+</p>
 
-export default function Portfolio() {
-  return (
-    <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center p-6">
-      <motion.h1
-        className="text-5xl font-bold"
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 1 }}
-      >
-        Hi, I'm <span className="text-blue-400">Maruf Raihan</span>
-      </motion.h1>
-      
-      <motion.p
-        className="mt-4 text-lg text-gray-400"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.5, duration: 1 }}
-      >
-        A passionate developer crafting beautiful web experiences.
-      </motion.p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
 
-      <motion.div
-        className="flex space-x-4 mt-6"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 1, duration: 1 }}
-      >
-        <a href="https://github.com/yourgithub" target="_blank" rel="noopener noreferrer">
-          <FaGithub className="text-3xl hover:text-blue-400 transition duration-300" />
-        </a>
-        <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
-          <FaLinkedin className="text-3xl hover:text-blue-400 transition duration-300" />
-        </a>
-        <a href="mailto:youremail@example.com">
-          <FaEnvelope className="text-3xl hover:text-blue-400 transition duration-300" />
-        </a>
-      </motion.div>
+## 📌 About Me
+- 🎯 Passionate about **Web Development** and **Open Source**
+- 🌱 Currently learning **[your tech stack]**
+- ✨ Building cool projects with **[your favorite technologies]**
+- 📫 Reach me at **[your email or social media]**
 
-      <motion.a
-        href="#projects"
-        className="mt-6 px-6 py-3 bg-blue-500 rounded-lg text-lg font-semibold hover:bg-blue-600 transition duration-300"
-        initial={{ scale: 0.9 }}
-        animate={{ scale: 1 }}
-        transition={{ delay: 1.2, duration: 0.5 }}
-      >
-        View My Work
-      </motion.a>
-    </div>
-  );
-}
+## ⚡ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150px"/>
+</p>
+
+---
+💡 _"Code is like humor. When you have to explain it, it’s bad."_ 😆
