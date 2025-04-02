@@ -9,9 +9,9 @@
 
 ## 📌 About Me
 - 🎯 Passionate about **Web Development** and **Open Source**
-- 🌱 Currently learning **[your tech stack]**
-- ✨ Building cool projects with **[your favorite technologies]**
-- 📫 Reach me at **[your email or social media]**
+- 🌱 Currently learning **ReactJs**
+- ✨ Building cool projects with **Tailwind CSS, Django, PHP**
+- 📫 Reach me at **marufraihanofficial@gmail.com**
 
 ## ⚡ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
